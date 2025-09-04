@@ -1,0 +1,1 @@
+Day 1-14, first projects to learn python
